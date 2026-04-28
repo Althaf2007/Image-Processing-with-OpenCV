@@ -28,21 +28,35 @@ Finally, bitwise operations are applied to generate transformed images, demonstr
 
 ## STEPS / ALGORITHM
 
-Read the image from the local directory using OpenCV.
-Display the image and print its dimensions (height, width, channels).
-Save the image in PNG format and reload it as a color image.
-Crop a specific region of interest from the image.
-Resize the image by scaling it to twice its original size.
-Flip the image horizontally.
-Load another image and perform annotation by adding text and drawing a rectangle.
-Read a new image and create a matrix to adjust brightness.
-Generate brighter and darker versions of the image.
-Modify the contrast of the image using scaling factors.
-Split the image into Blue, Green, and Red channels.
-Merge the B, G, R channels to reconstruct the image.
-Convert the image to HSV format and split into H, S, V channels.
-Merge the HSV channels back to form the image.
-Apply bitwise operations to generate a new processed image.
+1)Read the image from the local directory using OpenCV.
+   
+2)Display the image and print its dimensions (height, width, channels).
+
+3)Save the image in PNG format and reload it as a color image.
+
+4)Crop a specific region of interest from the image.
+
+5)Resize the image by scaling it to twice its original size.
+
+6)Flip the image horizontally.
+
+7)Load another image and perform annotation by adding text and drawing a rectangle.
+
+8)Read a new image and create a matrix to adjust brightness.
+
+9)Generate brighter and darker versions of the image.
+
+10)Modify the contrast of the image using scaling factors.
+
+11)Split the image into Blue, Green, and Red channels.
+
+12)Merge the B, G, R channels to reconstruct the image.
+
+13)Convert the image to HSV format and split into H, S, V channels.
+
+14)Merge the HSV channels back to form the image.
+
+15)Apply bitwise operations to generate a new processed image.
 
 ## OUTPUT
 
