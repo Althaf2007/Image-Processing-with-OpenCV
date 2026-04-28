@@ -60,47 +60,65 @@ Finally, bitwise operations are applied to generate transformed images, demonstr
 
 ## OUTPUT
 
+
 Display of grayscale and color images
+
 
 <img width="605" height="502" alt="Screenshot 2026-04-28 092757" src="https://github.com/user-attachments/assets/d948dc75-0dbc-4a60-aa8a-f5f78bad447c" />
 <img width="604" height="503" alt="Screenshot 2026-04-28 092805" src="https://github.com/user-attachments/assets/622c67f5-1f2d-42cd-84d9-339acdbf38b9" />
 
+
 Cropped, resized, and flipped images
+
 
 <img width="627" height="502" alt="Screenshot 2026-04-28 092814" src="https://github.com/user-attachments/assets/17c18f90-7d4e-4691-acda-d35a40ca9044" />
 <img width="605" height="502" alt="Screenshot 2026-04-28 092823" src="https://github.com/user-attachments/assets/38f45426-404a-4da0-920c-0b66e4276858" />
 <img width="621" height="511" alt="Screenshot 2026-04-28 092919" src="https://github.com/user-attachments/assets/d319d8ef-f28f-44ce-964c-e3bb6f47b039" />
 
+
 Annotated image with text and rectangle
+
 
 <img width="642" height="390" alt="Screenshot 2026-04-28 092929" src="https://github.com/user-attachments/assets/351c16aa-40bd-4642-ae6b-3b4e677ce2c6" />
 
+
 Brightness adjusted images (brighter and darker)
+
 
 <img width="1085" height="321" alt="Screenshot 2026-04-28 092936" src="https://github.com/user-attachments/assets/83b471c7-bd6c-4434-abb3-d22b672e2814" />
 
+
 Contrast enhanced images
+
 
 <img width="1053" height="305" alt="Screenshot 2026-04-28 092941" src="https://github.com/user-attachments/assets/762c47d3-36e5-472d-985e-378b628fc494" />
 
+
 Individual B, G, R channel images (in grayscale)
+
 
 <img width="711" height="537" alt="Screenshot 2026-04-28 093939" src="https://github.com/user-attachments/assets/8040673a-3b19-4330-a553-87b10a80ee00" />
 <img width="688" height="544" alt="Screenshot 2026-04-28 093945" src="https://github.com/user-attachments/assets/41830e11-401a-4754-8edc-0468ffaf5c37" />
 <img width="691" height="529" alt="Screenshot 2026-04-28 093953" src="https://github.com/user-attachments/assets/2e98967e-0c4c-4e33-a544-1e47229eeab8" />
 
+
 Reconstructed color image from merged channels
+
 
 <img width="633" height="512" alt="image" src="https://github.com/user-attachments/assets/e7fe7e97-75d0-4582-96fc-e00dd611a37d" />
 
+
 HSV channel images
+
 
 <img width="686" height="532" alt="Screenshot 2026-04-28 093242" src="https://github.com/user-attachments/assets/e5e3191b-5859-45c8-a92e-f88dc02af03c" />
 <img width="686" height="539" alt="Screenshot 2026-04-28 093247" src="https://github.com/user-attachments/assets/1b10ea99-9c1c-4710-8e03-13d705bd4439" />
 <img width="685" height="548" alt="Screenshot 2026-04-28 093304" src="https://github.com/user-attachments/assets/7e0f15e1-e2d3-458b-96b2-a50b5eff0568" />
 
 
+
 Merged Final Image
+
 
 <img width="630" height="510" alt="Screenshot 2026-04-28 093313" src="https://github.com/user-attachments/assets/9ad6ea96-f1c2-4cac-87a1-764963b6ac1c" />
 
