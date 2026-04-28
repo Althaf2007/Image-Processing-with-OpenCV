@@ -61,14 +61,14 @@ Finally, bitwise operations are applied to generate transformed images, demonstr
 ## OUTPUT
 
 
-Display of grayscale and color images
+## Display of grayscale and color images
 
 
 <img width="605" height="502" alt="Screenshot 2026-04-28 092757" src="https://github.com/user-attachments/assets/d948dc75-0dbc-4a60-aa8a-f5f78bad447c" />
 <img width="604" height="503" alt="Screenshot 2026-04-28 092805" src="https://github.com/user-attachments/assets/622c67f5-1f2d-42cd-84d9-339acdbf38b9" />
 
 
-Cropped, resized, and flipped images
+## Cropped, resized, and flipped images
 
 
 <img width="627" height="502" alt="Screenshot 2026-04-28 092814" src="https://github.com/user-attachments/assets/17c18f90-7d4e-4691-acda-d35a40ca9044" />
