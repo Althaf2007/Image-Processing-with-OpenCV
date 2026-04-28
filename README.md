@@ -76,25 +76,25 @@ Finally, bitwise operations are applied to generate transformed images, demonstr
 <img width="621" height="511" alt="Screenshot 2026-04-28 092919" src="https://github.com/user-attachments/assets/d319d8ef-f28f-44ce-964c-e3bb6f47b039" />
 
 
-Annotated image with text and rectangle
+## Annotated image with text and rectangle
 
 
 <img width="642" height="390" alt="Screenshot 2026-04-28 092929" src="https://github.com/user-attachments/assets/351c16aa-40bd-4642-ae6b-3b4e677ce2c6" />
 
 
-Brightness adjusted images (brighter and darker)
+## Brightness adjusted images (brighter and darker)
 
 
 <img width="1085" height="321" alt="Screenshot 2026-04-28 092936" src="https://github.com/user-attachments/assets/83b471c7-bd6c-4434-abb3-d22b672e2814" />
 
 
-Contrast enhanced images
+## Contrast enhanced images
 
 
 <img width="1053" height="305" alt="Screenshot 2026-04-28 092941" src="https://github.com/user-attachments/assets/762c47d3-36e5-472d-985e-378b628fc494" />
 
 
-Individual B, G, R channel images (in grayscale)
+## Individual B, G, R channel images (in grayscale)
 
 
 <img width="711" height="537" alt="Screenshot 2026-04-28 093939" src="https://github.com/user-attachments/assets/8040673a-3b19-4330-a553-87b10a80ee00" />
@@ -102,13 +102,13 @@ Individual B, G, R channel images (in grayscale)
 <img width="691" height="529" alt="Screenshot 2026-04-28 093953" src="https://github.com/user-attachments/assets/2e98967e-0c4c-4e33-a544-1e47229eeab8" />
 
 
-Reconstructed color image from merged channels
+## Reconstructed color image from merged channels
 
 
 <img width="633" height="512" alt="image" src="https://github.com/user-attachments/assets/e7fe7e97-75d0-4582-96fc-e00dd611a37d" />
 
 
-HSV channel images
+## HSV channel images
 
 
 <img width="686" height="532" alt="Screenshot 2026-04-28 093242" src="https://github.com/user-attachments/assets/e5e3191b-5859-45c8-a92e-f88dc02af03c" />
@@ -117,7 +117,7 @@ HSV channel images
 
 
 
-Merged Final Image
+## Merged Final Image
 
 
 <img width="630" height="510" alt="Screenshot 2026-04-28 093313" src="https://github.com/user-attachments/assets/9ad6ea96-f1c2-4cac-87a1-764963b6ac1c" />
